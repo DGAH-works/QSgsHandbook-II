@@ -11,3 +11,9 @@
 # 对适用神杀版本的说明
 
 这本手册是参照神杀 V2 - 元宵版（版本号：20130224）进行编写的。但由于编写过程因故中断过多次，至完篇时神杀已更新到 V2 - 世界人权版（版本号：20131210）及其玉兔补丁（版本号：20131217），代码层面变化较大，因此当时并未及时公开。
+
+# 下载链接
+
+- [单文件版](https://github.com/DGAH-works/QSgsHandbook-II/archive/20130224.zip)
+
+- [分章节版](https://github.com/DGAH-works/QSgsHandbook-II/archive/20130224-II.zip)
